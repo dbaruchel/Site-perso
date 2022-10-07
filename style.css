@@ -16,3 +16,10 @@ a {
 	text-transform: uppercase;
 	font-weight: 800;	
 }
+
+.smallcaps {
+	font-family: "Lato";
+	font-size: 0.8em;
+	text-transform: uppercase;
+	font-weight: 800;		
+}
