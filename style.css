@@ -1,7 +1,12 @@
 body {
 	text-align:center;
 	font-family: "Playfair Display", Times;
-	color: black;		
+	color: black;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 a {
