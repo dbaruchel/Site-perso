@@ -1,0 +1,13 @@
+body {
+	text-align:center;
+	font-family: "Playfair Display", Times;
+	color: black;		
+}
+
+a {
+	color: #aaa;
+	font-family: "Lato";
+	font-size: 0.8em;
+	text-transform: uppercase;
+	font-weight: 800;	
+}
